@@ -5,7 +5,7 @@ import { Sparkles } from 'lucide-react';
 export default function FloatingButton() {
   return (
     <a
-      href="https://google.com"
+      href="https://propstical-poc.streamlit.app/"
       target="_blank"
       rel="noopener noreferrer"
       className="floating-button bounce-attention bg-red-600 hover:bg-red-700 text-white"
